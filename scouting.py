@@ -5,11 +5,6 @@
 ## This program has file input and output, classes,      ##
 ## importing, sorting algorithms, videos, pictures,      ##
 ## different types of inputs                             ##
-## I took your advice and wanted this program to be used ##
-## for several years so the input file comes from FRC,   ##
-## the inputs that people do in the app are generally    ##
-## the same every year and can easily be adjusted. I also##
-## added a toggle bar for my inputboxes                  ##
 ###########################################################
 # Import statements
 import pygame, buttons, inputs, random
